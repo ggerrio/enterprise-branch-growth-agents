@@ -1,0 +1,130 @@
+[
+    {
+        "timestamp": "2026-06-25 13:26:27",
+        "showroom": "Showroom_Garuda_Motor",
+        "allocated_budget": 25000000,
+        "npl_checked": 1.2,
+        "cmo_handler": "Budi_Santoso",
+        "final_status": "APPROVED"
+    },
+    {
+        "timestamp": "2026-06-25 13:38:54",
+        "showroom": null,
+        "allocated_budget": 0,
+        "npl_checked": 0.0,
+        "cmo_handler": null,
+        "final_status": "APPROVED"
+    },
+    {
+        "timestamp": "2026-06-25 13:40:59",
+        "showroom": "Dealer_A",
+        "allocated_budget": 21000000,
+        "npl_checked": 0.51,
+        "cmo_handler": "Budi_Santoso",
+        "final_status": "APPROVED"
+    },
+    {
+        "timestamp": "2026-06-25 14:06:39",
+        "showroom": "Dealer_A",
+        "allocated_budget": 21000000,
+        "npl_checked": 0.51,
+        "cmo_handler": "Budi_Santoso",
+        "final_status": "APPROVED"
+    },
+    {
+        "timestamp": "2026-06-25 14:06:39",
+        "showroom": "Dealer_B",
+        "allocated_budget": 21000000,
+        "npl_checked": 0.26,
+        "cmo_handler": "Siti_Aminah",
+        "final_status": "APPROVED"
+    },
+    {
+        "timestamp": "2026-06-25 14:06:39",
+        "showroom": "Dealer_C",
+        "allocated_budget": 21000000,
+        "npl_checked": 1.07,
+        "cmo_handler": "Budi_Santoso",
+        "final_status": "APPROVED"
+    },
+    {
+        "timestamp": "2026-06-25 14:06:39",
+        "showroom": "Dealer_D",
+        "allocated_budget": 21000000,
+        "npl_checked": 0.74,
+        "cmo_handler": "Siti_Aminah",
+        "final_status": "APPROVED"
+    },
+    {
+        "timestamp": "2026-06-25 14:06:39",
+        "showroom": "Dealer_E",
+        "allocated_budget": 21000000,
+        "npl_checked": 1.04,
+        "cmo_handler": "Budi_Santoso",
+        "final_status": "APPROVED"
+    },
+    {
+        "timestamp": "2026-06-25 14:06:39",
+        "showroom": "Dealer_F",
+        "allocated_budget": 21000000,
+        "npl_checked": 0.28,
+        "cmo_handler": "Siti_Aminah",
+        "final_status": "APPROVED"
+    },
+    {
+        "timestamp": "2026-06-25 14:06:39",
+        "showroom": "Dealer_G",
+        "allocated_budget": 21000000,
+        "npl_checked": 0.22,
+        "cmo_handler": "Budi_Santoso",
+        "final_status": "APPROVED"
+    },
+    {
+        "timestamp": "2026-06-25 14:06:39",
+        "showroom": "Dealer_H",
+        "allocated_budget": 21000000,
+        "npl_checked": 0.89,
+        "cmo_handler": "Siti_Aminah",
+        "final_status": "APPROVED"
+    },
+    {
+        "timestamp": "2026-06-25 14:06:39",
+        "showroom": "Showroom_Garuda_Motor",
+        "allocated_budget": 22500000,
+        "npl_checked": 1.2,
+        "cmo_handler": "Budi_Santoso",
+        "final_status": "APPROVED"
+    },
+    {
+        "timestamp": "2026-06-25 14:06:39",
+        "showroom": "Showroom_Maju_Jaya",
+        "allocated_budget": 3000000,
+        "npl_checked": 0.8,
+        "cmo_handler": "Siti_Aminah",
+        "final_status": "APPROVED"
+    },
+    {
+        "timestamp": "2026-06-25 14:06:39",
+        "showroom": "Showroom_Berkat_Mobilindo",
+        "allocated_budget": 1500000,
+        "npl_checked": 1.5,
+        "cmo_handler": "Budi_Santoso",
+        "final_status": "APPROVED"
+    },
+    {
+        "timestamp": "2026-06-25 14:06:39",
+        "showroom": "Showroom_Raya_Automobil",
+        "allocated_budget": 0,
+        "npl_checked": 3.5,
+        "cmo_handler": "Iwan_Setiawan",
+        "final_status": "VETOED / BLOCKED"
+    },
+    {
+        "timestamp": "2026-06-25 14:06:39",
+        "showroom": "Showroom_Tunas_Harapan",
+        "allocated_budget": 0,
+        "npl_checked": 4.2,
+        "cmo_handler": "Siti_Aminah",
+        "final_status": "VETOED / BLOCKED"
+    }
+]

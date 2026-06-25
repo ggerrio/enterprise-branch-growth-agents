@@ -1,0 +1,16 @@
+[
+    {
+        "timestamp": "2026-06-25 15:00:03",
+        "reviewer": "Branch Manager (Human-in-the-Loop)",
+        "action": "REJECTED",
+        "status": "REJECTED / VETOED BY BRANCH MANAGER",
+        "file_audited": "Laporan_Evaluasi_Operasional_Juni.md"
+    },
+    {
+        "timestamp": "2026-06-25 15:04:17",
+        "reviewer": "Branch Manager (Human-in-the-Loop)",
+        "action": "APPROVED",
+        "status": "APPROVED BY BRANCH MANAGER",
+        "file_audited": "Laporan_Evaluasi_Operasional_Juni.md"
+    }
+]
