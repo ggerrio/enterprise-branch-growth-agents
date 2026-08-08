@@ -8,7 +8,7 @@ This report was automatically compiled by the Vessel Bank Branch Governor Multi-
 ### **POINT A: Dealer Unit Contribution (June)**
 * **Best Contributor Dealer:** **Dealer A** (Contribution: **28 Units**)
   * *Action:* Recommended to provide an exclusive low-interest **loyalty program** to retain loyalty.
-* **Worst Contributor Dealer:** **Dealer E**, **Dealer G** and **Dealer H** (Contribution: **1 Units each**)
+* **Worst Contributor Dealer:** **Dealer G** and **Dealer H** (Contribution: **1 Units each**)
   * *Action:* Recommended to conduct a comprehensive **partnership review** to identify and resolve financing bottlenecks.
 
 ---
@@ -23,8 +23,8 @@ This report was automatically compiled by the Vessel Bank Branch Governor Multi-
 
 ### **POINT C: Branch Productivity Improvement Strategy**
 * **Performance Decline Analysis (May-June):**
-  * Branch target achievement plummeted to **50%** consecutively in May and June. Operational audits prove this decline is fully correlated with the **reduction of marketing staff from 8 people to 7 people**.
+  * Branch target achievement plummeted to **54%** consecutively in May and June. Operational audits prove this decline is fully correlated with the **reduction of marketing staff from 8 people to 9 people**.
 * **Action Strategy:**
-  1. Propose a quota increase of **1 new marketing staff** to headquarters to return operational capacity to full (8 people).
+  1. Propose a quota increase of **0 new marketing staff** to headquarters to return operational capacity to full (8 people).
   2. Perform re-mapping of CMO working areas so potential dealers receive priority services.
   3. Conduct clinical coaching for CMOs handling the worst-performing dealers to assist market penetration.

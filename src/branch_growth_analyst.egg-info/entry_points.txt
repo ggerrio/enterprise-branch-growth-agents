@@ -1,0 +1,4 @@
+[console_scripts]
+vessel-bank-evaluate = branch_growth_analyst.cli:run_evaluation_cli
+vessel-bank-governance = branch_growth_analyst.cli:run_governance_cli
+vessel-bank-simulate = branch_growth_analyst.cli:run_simulation_cli

@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+src/branch_growth_analyst/__init__.py
+src/branch_growth_analyst/cli.py
+src/branch_growth_analyst/data_parser.py
+src/branch_growth_analyst.egg-info/PKG-INFO
+src/branch_growth_analyst.egg-info/SOURCES.txt
+src/branch_growth_analyst.egg-info/dependency_links.txt
+src/branch_growth_analyst.egg-info/entry_points.txt
+src/branch_growth_analyst.egg-info/requires.txt
+src/branch_growth_analyst.egg-info/top_level.txt
+tests/test_data_parser.py

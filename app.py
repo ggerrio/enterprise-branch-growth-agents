@@ -107,31 +107,14 @@ CSV_FILEPATH = "data_cabang_xyz.csv"
 AUDIT_TRAIL_PATH = "audit_trail.json"
 
 # ----------------------------------------------------------------------
-# HELPER PARSING FUNCTIONS
+# HELPER PARSING FUNCTIONS (Imported from branch_growth_analyst package)
 # ----------------------------------------------------------------------
-def parse_indonesian_number(val_str):
-    if not val_str:
-        return 0
-    cleaned = val_str.replace(".", "").strip()
-    return int(cleaned) if cleaned.isdigit() else 0
-
-def format_indonesian_number(val_int):
-    return f"{val_int:,}".replace(",", ".")
-
-def parse_indonesian_percent(val_str):
-    if not val_str:
-        return 0.0
-    cleaned = val_str.replace("%", "").replace(",", ".").strip()
-    try:
-        return float(cleaned)
-    except ValueError:
-        return 0.0
-
-def format_indonesian_percent(val_float):
-    if val_float == int(val_float):
-        return f"{int(val_float)}%"
-    formatted = f"{val_float:.2f}".replace(".", ",")
-    return f"{formatted}%"
+from branch_growth_analyst.data_parser import (
+    parse_indonesian_number,
+    format_indonesian_number,
+    parse_indonesian_percent,
+    format_indonesian_percent,
+)
 
 def load_csv_data(filepath=CSV_FILEPATH):
     if not os.path.exists(filepath):
