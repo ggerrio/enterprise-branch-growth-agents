@@ -9,9 +9,19 @@
 
 ---
 
-## 📺 Live Demo
-![Vessel Bank Dashboard Walkthrough](./demo/walkthrough.webp)
-*Explore the interactive dashboard, simulated agent negotiations, and human-in-the-loop decision panels.*
+## 📺 Dashboard Showcase
+
+### 1. Visual CRUD Editor
+![Vessel Bank Dashboard CRUD Editor](./demo/tab1_crud_editor.png)
+*Real-time branch data entry and automatic performance calculations.*
+
+### 2. Multi-Agent Negotiation Simulator
+![Vessel Bank Multi-Agent Simulation Debate](./demo/simulation_logs.png)
+*Collaborative debate between `@Volume-Analyst-Agent`, `@Risk-Auditor-Agent`, and `@Branch-Strategist-Orchestrator`.*
+
+### 3. Human-in-the-Loop Governance Portal
+![Vessel Bank Strategy Governance Approval](./demo/approved_status_confirmation.png)
+*Secured operational control requiring physical sign-off from the Branch Manager before program release.*
 
 ---
 
